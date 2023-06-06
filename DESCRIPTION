@@ -11,3 +11,7 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/Fvfaeti/demo
 BugReports: https://github.com/Fvfaeti/demo/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
